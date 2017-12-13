@@ -1,0 +1,6 @@
+F:\Workspace\NETProjects\CsharpTestChineseVariable\CsharpTestChineseVariable\bin\Debug\CsharpTestChineseVariable.exe.config
+F:\Workspace\NETProjects\CsharpTestChineseVariable\CsharpTestChineseVariable\bin\Debug\CsharpTestChineseVariable.exe
+F:\Workspace\NETProjects\CsharpTestChineseVariable\CsharpTestChineseVariable\bin\Debug\CsharpTestChineseVariable.pdb
+F:\Workspace\NETProjects\CsharpTestChineseVariable\CsharpTestChineseVariable\obj\Debug\CsharpTestChineseVariable.csprojResolveAssemblyReference.cache
+F:\Workspace\NETProjects\CsharpTestChineseVariable\CsharpTestChineseVariable\obj\Debug\CsharpTestChineseVariable.exe
+F:\Workspace\NETProjects\CsharpTestChineseVariable\CsharpTestChineseVariable\obj\Debug\CsharpTestChineseVariable.pdb
