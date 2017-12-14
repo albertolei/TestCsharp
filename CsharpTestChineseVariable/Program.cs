@@ -15,11 +15,14 @@ namespace CsharpTestChineseVariable
             //t.修改名称("alberto");
             //Console.WriteLine(t.名称);
             //Console.Read();
-            Person1 p1 = new Person1();
-            p1.name = "alberto";
-            Person2 p2 = new Person2();
-            p2.Name = "lleigang";
-            Console.WriteLine(p1.name + ", " + p2.Name);
+            //Person1 p1 = new Person1();
+            //p1.name = "alberto";
+            //Person2 p2 = new Person2();
+            //p2.Name = "lleigang";
+            //Console.WriteLine(p1.name + ", " + p2.Name);
+            //Console.Read();
+            TestVar tv = new TestVar();
+            tv.testVar();
             Console.Read();
         }
     }
@@ -35,7 +38,7 @@ namespace CsharpTestChineseVariable
     {
         public string name;
     }
-    class Person2 //属性
+    class Person2 //Property属性
     {
         private string name;
         public string Name
@@ -55,6 +58,16 @@ namespace CsharpTestChineseVariable
                     this.name = value;
                 }
             }
+        }
+    }
+
+    class TestVar
+    {
+        public void testVar()
+        {
+            var name = 12f;
+            name = 43;
+            Console.WriteLine(name + ", " + name.GetType());//输入 43, System.Single
         }
     }
 }
